@@ -1,0 +1,11 @@
+.card{
+width: 60%;
+margin:auto;
+}
+.field{
+    width: 100%;
+}
+.card button{
+    margin: 5px;
+}
+
